@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 30px;
+  background: whitesmoke;
+}
+
+.product {
+  width: 250px;
+  padding: 20px;
+  margin: 15px 0;
+  background: white;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+}
+
+.product h2 {
+  margin-bottom: 10px;
+}
+
+.product p {
+  margin: 5px 0;
+  color: gray;
+}
