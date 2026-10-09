@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background: whitesmoke;
+  padding: 30px;
+}
+
+.post {
+  width: 280px;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+}
+
+.photo {
+  height: 180px;
+  background: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+button {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+p {
+  color: gray;
+}
